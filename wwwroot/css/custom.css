@@ -1,0 +1,40 @@
+﻿
+/* Tested custom CSS for SweetAlert2.. */
+/*:root[class~="dark"] div:where(.swal2-container) div:where(.swal2-popup) {
+    background-color: #353434;
+    z-index: 1;
+    border: 1px solid #666666;
+}
+*/
+
+.no-border {
+    border: none !important;
+    outline: none !important;
+    box-shadow: none !important;
+    background: transparent !important;
+    padding: 0 !important;
+    width: 100%;
+    color: #D3D3D3;
+}
+
+    .no-border:focus {
+        border: none !important;
+        outline: none !important;
+        box-shadow: none !important;
+        color: #D3D3D3;
+    }
+
+.status-bar {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    max-height: 40px;
+    z-index: 1000;
+    padding: 0.2rem 0.4rem;
+    box-shadow: 0 -2px 4px rgba(0,0,0,0.1);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: var(--neutral-layer-1);
+}
