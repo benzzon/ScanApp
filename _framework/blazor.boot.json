@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ScanApp",
   "resources": {
-    "hash": "sha256-XoLl8bQiY4oMUQpq1CSAzPeItsxf/pqT+ToZNNb6jkg=",
+    "hash": "sha256-9lZ8tVJNpQts1Nw/dDPvJI0jyqWiRZ2hGESEXoXcE98=",
     "jsModuleNative": {
       "dotnet.native.8.0.14.ao03vwswak.js": "sha256-DTUQS6Jc6BNnS7sYYezFfaUKVmQq0/lanhQuJfygH/k="
     },
@@ -31,13 +31,13 @@
       "Microsoft.Extensions.Logging.wasm": "sha256-gRNqDIITN9/LJz459bgijHJ1O+l5fzsybyrFhw0Iqa4=",
       "Microsoft.Extensions.Options.wasm": "sha256-ezKJDNjeghS/qMdQmUpBPdH7bCDLrqkNqS6RsLxlpOY=",
       "Microsoft.Extensions.Primitives.wasm": "sha256-Ms2HR5Gpug/0uRAzdk4SUNT76Ml3CjFv9Jo+dUIMGac=",
-      "Microsoft.FluentUI.AspNetCore.Components.Icons.Regular.wasm": "sha256-HNn2QNsRxDffsDqas7+YEJgbO9JmOj9vT3+/POMAS7I=",
+      "Microsoft.FluentUI.AspNetCore.Components.Icons.Regular.wasm": "sha256-WCPPVdsKfUpb6hyC9VSJABsu8G1tgGMU9E+KEx5Ow2U=",
       "Microsoft.FluentUI.AspNetCore.Components.wasm": "sha256-7YGR2UwW+E4Gj65FebuIazv41QsK0VTTlIy2/QYt5YA=",
       "Microsoft.JSInterop.wasm": "sha256-FjWUjNaEc8WxyBmFQ+XLc7ZjePKj78vLuRaxw4bn/vo=",
       "Microsoft.JSInterop.WebAssembly.wasm": "sha256-fd2zbkEmDMKwxoRxT9i0gm7xndmnlJJ2YhJ8QaAE1RU=",
       "netstandard.wasm": "sha256-MGefkUJx/NWsuNrFJoo0ZjnLqeUt8fCpS1zFX+bBBfY=",
       "RT.Comb.wasm": "sha256-OGC3zpgOb0BqhDdZvaWCZnP6aqzwMCn3n4bAq6aBeVY=",
-      "ScanApp.wasm": "sha256-w1xhbcnaTcGH65u+yDYMRwC+4t0YjYKmxXblKTWAjyA=",
+      "ScanApp.wasm": "sha256-pMb/XxF6EzTxYNbBOflyOF53NGfNmbn4EJUs+WotLJI=",
       "System.Collections.Concurrent.wasm": "sha256-FUt8nVMDK8fwmVVk8FT9kPlqITFgmNSKVxHY4rX9L6I=",
       "System.Collections.Specialized.wasm": "sha256-G5V5ZUdvTWf3xDfCT8vJ8YqwHSEec7X2eUy7d4f9mZE=",
       "System.Collections.wasm": "sha256-XbipXt2VAaXwaK5Ar2HoM2OXhdA1vQ5v5HuqXPn/Szc=",
