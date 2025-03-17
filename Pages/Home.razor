@@ -185,6 +185,7 @@
     }
     private async Task ClearInput()
     {
+        ToastService.ShowToast(ToastIntent.Info, "Clearing input..", 5000);
         inputScanTotal = string.Empty;
         HID_Input = string.Empty;
     }
